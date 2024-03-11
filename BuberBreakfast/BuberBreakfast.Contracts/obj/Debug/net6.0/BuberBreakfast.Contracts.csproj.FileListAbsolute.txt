@@ -1,0 +1,12 @@
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.deps.json
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\ref\BuberBreakfast.Contracts.dll
+C:\Users\NicholasViegas\OneDrive - QUANTIZ CONSULTORIA EMPRESARIAL LTDA\GitHub\BuberBreakfast\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.sourcelink.json
